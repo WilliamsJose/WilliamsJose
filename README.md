@@ -27,6 +27,7 @@
 ###
   
 <div align="center"> 
+  
   <a href="linkedin.com/in/williams-jsa/" target="_blank">  
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
@@ -36,4 +37,5 @@
   <a href="mailto:williamsj@outlook.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" />
   </a>
+  
 </div>
