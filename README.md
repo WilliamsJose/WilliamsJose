@@ -28,7 +28,7 @@
   
 <div align="center"> 
   
-  <a href="linkedin.com/in/williams-jsa/" target="_blank">  
+  <a href="https://linkedin.com/in/williams-jsa/" target="_blank">  
     <img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a> 
   <a href="mailto:contatowilliamsj@gmail.com" target="_blank"> 
